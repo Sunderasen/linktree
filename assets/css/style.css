@@ -8,7 +8,7 @@
     --accent-color: #ffeb3b  ; /* Yellow accent color */
     --button-bg: #0d0d3a ; /* Blue button background */
     --button-text: #fff; /* White text on buttons */
-    --button-hover-bg: #0d0d3a ; /* Lighter blue on hover */
+    --button-hover-bg: #2F2F2F ; /* Lighter blue on hover */
 }
 
 body {
