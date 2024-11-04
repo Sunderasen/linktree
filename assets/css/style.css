@@ -71,9 +71,8 @@ body {
 .link:hover {
     background-color: var(--button-hover-bg);
     color: var(--button-text);
-    border-bottom: 5px solid var(--button-hover-bg);
+    border-bottom-color: var(--accent-color); 
 }
-
 .footer {
     text-align: center;
     font-size: 1.3rem;
